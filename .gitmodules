@@ -1,0 +1,6 @@
+[submodule "amazon-eks-frontend-main"]
+	path = amazon-eks-frontend-main
+	url = https://github.com/quansang/amazon-eks-cicd-front-app
+[submodule "manifests"]
+	path = manifests
+	url = https://github.com/quansang/amazon-eks-cicd-manifest
